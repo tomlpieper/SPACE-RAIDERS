@@ -16,7 +16,7 @@ Project idea and implementation by Tom Pieper.
 My game idea was to make a First-Person SciFi-themed survival game. Therefore one can see a glimpse of Star Wars or other franchises in the level-design and concepts. While first wanting to create a simple Jump-and-Run-Game, my fascination for the possiblities in the unity engine, once I got ahang of it resulted in more and more concepts i wanted to include in the game. Last but no least the game as it is now also shall work as a framework for further developing levels and creating new content in this world easily which is why I created a lot of structure and mainly focused on interaction with the environment rather than making an endless game with a lot of levels as this project was very fun yet already very timeconsuming.
 The first level (tutorial) focuses on the basic concepts and also interior design and baking of lightmaps.
 The actual first level is designated to enemy AI, and playing the actual game.
-I hope the idea gets clear when watching the video uploaded on StudIp. 
+I hope the idea gets clear when watching the video uploaded [here](https://youtu.be/mBIjuP0cHk8). 
 
 
 
