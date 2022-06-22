@@ -10,6 +10,8 @@ I coded everything in this project myself (of course there are certain base conc
 
 Project idea and implementation by Tom Pieper.
 
+Note: As this is a private repo and video, please do not share the links to the youtube video.
+
 
 
 ## Game Idea 
