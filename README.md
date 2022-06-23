@@ -5,10 +5,12 @@
 Project idea and implementation by Tom Pieper.
 MatrikelNr: 982845
 
+
+Hey Guys :)
 This Repo contains my whole final version of the course project: Introduction to Unity.
 As I already spoke to Jule Bufler regarding the missing Git-History of my project, I try to make my development process and structure of this project very clear in this README as well as in the comments inside the C#-Scripts.
 
-With a solid base in OOP but no experience in visually based development this course was the perfect way to start my way into GameDev. This is also the reason why i decided to work on this project on my own - of course with the help of the courseware but also with a lot of other openly available online resources such as Youtube tutorials and StackOverflow threads. 
+With a relatively solid base in OOP but no experience in visually based development this course was the perfect way to start my way into GameDev. This is also the reason why i decided to work on this project on my own - of course with the help of the courseware but also with a lot of other openly available online resources such as Youtube tutorials and StackOverflow threads. 
 Since I developed the project on my own machine and I was told by other students that the Git-history was mainly neccessary to proof that everybody in the group did work on the project, I include a timeline of the development in the end of this README to make up for the missing history.
 I coded everything in this project myself (of course there are certain base concepts like the FPS-Movement or Interaction System which I coded myself but very closely sticked to tutorials online.) If there are any further questions regarding this, please to not hesitate to contact me.
 
